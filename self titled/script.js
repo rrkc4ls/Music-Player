@@ -25,7 +25,7 @@ const music_list = [
         img : 'images/self-titled.jpeg',
         name : 'flex',
         artist : 'Playboi Carti, ft Leven Kali',
-        music : 'music/flex.m4a'
+        music : 'music/flex.mp3'
     },
     {
         img : 'images/',
