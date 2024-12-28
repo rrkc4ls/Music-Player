@@ -65,8 +65,8 @@ position: absolute;
 }
 
 #albums img{ 
-  width: 280px;
-  height:280px;
+  width: 380px;
+  height:380px;
   border-radius: 5%;
   border: 3px solid #fff;
   box-shadow: 0 10px 60px rbga(255, 26, 26 ,0.22);
