@@ -22,7 +22,7 @@ let updateTimer;
 
 const music_list = [
     {
-        img : 'images/selftitled.jpeg',
+        img : 'images/self-titled.jpeg',
         name : 'flex',
         artist : 'Playboi Carti, ft Leven Kali',
         music : 'music/flex.m4a'
