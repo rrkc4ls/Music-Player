@@ -22,26 +22,62 @@ let updateTimer;
 
 const music_list = [
     {
-        img : 'images/stay.png',
+        img : 'images/Self-titled.jpeg',
         name : '1',
         artist : 'Playboi Carti',
         music : 'music/stay.mp3'
     },
     {
-        img : 'images/fallingdown.jpg',
+        img : 'images/Self-titled.jpeg',
         name : '2',
         artist : 'Playboi Carti',
         music : 'music/fallingdown.mp3'
     },
     {
-        img : 'images/faded.png',
+        img : 'images/Self-titled.jpeg',
         name : '3',
         artist : 'Playboi Carti, ft Leven Kali',
         music : 'music/Faded.mp3'
     },
     {
-        img : 'images/ratherbe.jpg',
+        img : 'images/Self-titled.jpeg',
         name : '4',
+        artist : 'Playboi Carti',
+        music : 'music/Faded.mp3'
+    },
+    {
+        img : 'images/Self-titled.jpeg',
+        name : '5',
+        artist : 'Playboi Carti',
+        music : 'music/Faded.mp3'
+    },
+    {
+        img : 'images/Self-titled.jpeg',
+        name : '6',
+        artist : 'Playboi Carti',
+        music : 'music/Faded.mp3'
+    },
+    {
+        img : 'images/Self-titled.jpeg',
+        name : '7',
+        artist : 'Playboi Carti',
+        music : 'music/Faded.mp3'
+    },
+    {
+        img : 'images/Self-titled.jpeg',
+        name : '8',
+        artist : 'Playboi Carti',
+        music : 'music/Faded.mp3'
+    },
+    {
+        img : 'images/Self-titled.jpeg',
+        name : '9',
+        artist : 'Playboi Carti',
+        music : 'music/Faded.mp3'
+    },
+    {
+        img : 'images/Self-titled.jpeg',
+        name : '10',
         artist : 'Playboi Carti',
         music : 'music/Rather Be.mp3'
     }
