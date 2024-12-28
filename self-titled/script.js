@@ -22,40 +22,28 @@ let updateTimer;
 
 const music_list = [
     {
-        img : 'images/self-titled.jpeg',
-        name : 'flex',
-        artist : 'Playboi Carti, ft Leven Kali',
-        music : 'music/flex.mp3'
-    },
-    {
-        img : 'images/',
+        img : 'images/stay.png',
         name : '1',
         artist : 'Playboi Carti',
-        music : 'music/'
+        music : 'music/stay.mp3'
     },
     {
-        img : 'images/',
+        img : 'images/fallingdown.jpg',
         name : '2',
         artist : 'Playboi Carti',
-        music : 'music/'
+        music : 'music/fallingdown.mp3'
     },
     {
-        img : 'images/',
+        img : 'images/faded.png',
         name : '3',
-        artist : 'Playboi Carti',
-        music : 'music/'
+        artist : 'Playboi Carti, ft Leven Kali',
+        music : 'music/Faded.mp3'
     },
     {
-        img : 'images/',
+        img : 'images/ratherbe.jpg',
         name : '4',
         artist : 'Playboi Carti',
-        music : 'music/'
-    },
-    {
-        img : 'images/',
-        name : 'end',
-        artist : 'Playboi Carti',
-        music : 'music/'
+        music : 'music/Rather Be.mp3'
     }
 ];
 
