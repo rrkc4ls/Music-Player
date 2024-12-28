@@ -22,28 +22,40 @@ let updateTimer;
 
 const music_list = [
     {
-        img : 'images/stay.png',
-        name : 'Stay',
-        artist : 'The Kid LAROI, Justin Bieber',
-        music : 'music/stay.mp3'
+        img : 'images/selftitled.jpeg',
+        name : 'flex',
+        artist : 'Playboi Carti',
+        music : 'music/'
     },
     {
-        img : 'images/fallingdown.jpg',
-        name : 'Falling Down',
-        artist : 'Wid Cards',
-        music : 'music/fallingdown.mp3'
+        img : 'images/',
+        name : '1',
+        artist : 'Playboi Carti',
+        music : 'music/'
     },
     {
-        img : 'images/faded.png',
-        name : 'Faded',
-        artist : 'Alan Walker',
-        music : 'music/Faded.mp3'
+        img : 'images/',
+        name : '2',
+        artist : 'Playboi Carti',
+        music : 'music/'
     },
     {
-        img : 'images/ratherbe.jpg',
-        name : 'Rather Be',
-        artist : 'Clean Bandit',
-        music : 'music/Rather Be.mp3'
+        img : 'images/',
+        name : '3',
+        artist : 'Playboi Carti',
+        music : 'music/'
+    },
+    {
+        img : 'images/',
+        name : '4',
+        artist : 'Playboi Carti',
+        music : 'music/'
+    },
+    {
+        img : 'images/',
+        name : 'end',
+        artist : 'Playboi Carti',
+        music : 'music/'
     }
 ];
 
